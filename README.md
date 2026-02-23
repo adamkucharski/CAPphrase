@@ -4,7 +4,7 @@
 
 Comparative and Absolute Probability phrase dataset, based on an [online quiz](https://probability.kucharski.io/) created as an independent project by Adam Kucharski.
 
-You can view visualisations and preliminary analysis [here](https://adamkucharski.github.io/CAPphrase/.
+You can view visualisations and preliminary analysis [here](https://adamkucharski.github.io/CAPphrase/).
 
 ## Datasets
 
