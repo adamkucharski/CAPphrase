@@ -4,6 +4,8 @@
 
 Comparative and Absolute Probability phrase dataset, based on an [online quiz](https://probability.kucharski.io/) created as an independent project by Adam Kucharski.
 
+You can view visualisations and preliminary analysis [here](https://adamkucharski.github.io/CAPphrase/.
+
 ## Datasets
 
 The `data/` folder contains preprocessed CSVs ready for analysis. This version contains data from 5,174 quiz participants.
