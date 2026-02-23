@@ -4,7 +4,7 @@ Comparative and Absolute Probability phrase dataset, based on an [online quiz](h
 
 ## Datasets
 
-The `data/` folder contains preprocessed CSVs ready for analysis.
+The `data/` folder contains preprocessed CSVs ready for analysis. This version contains data from 5,174 quiz participants.
 
 ### Comparative estimates: [`pairwise_comparisons.csv`](data/pairwise_comparisons.csv)
 
