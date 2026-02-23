@@ -4,6 +4,8 @@ This page presentes an analysis of how people interpret common probability phras
 
 The quiz had two parts: 1) respondents compared pairs of probability phrases (e.g. "Which conveys a higher probability: *Likely* or *Probable*?") and 2) they assigned numerical values (0--100%) to each of 19 phrases. Optional demographic questions were also collected.
 
+Code and data are available from the [accompanying GitHub repo](https://github.com/adamkucharski/CAPphrase).
+
 ## Probability estimates by phrase
 
 The below shows the distribution of absolute numerical probability estimates for each phrase (i.e. from Part 2), ordered by mean value. The spread shows how differently people interpret the same words.
@@ -86,6 +88,6 @@ Before analysis, absolute responses that fall more than 4 standard deviations fr
 
 ## Citation and licence
 
-**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset.
+**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
 
 **Licence:** CC-BY
