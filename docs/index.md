@@ -10,11 +10,11 @@ The quiz had two parts: 1) respondents compared pairs of probability phrases (e.
 
 The below shows the distribution of absolute numerical probability estimates for each phrase (i.e. from Part 2), ordered by mean value. The spread shows how differently people interpret the same words.
 
-![Means and medians](../R/output/01_words_means.png)
+![Means and medians](output/01_words_means.png)
 
 Here is the same plot ranked by variance, alongside a comparison with yardstick probability scales (e.g. intelligence community, IPCC).
 
-![Yardstick comparison](../R/output/01_words_yardsticks.png)
+![Yardstick comparison](output/01_words_yardsticks.png)
 
 ---
 
@@ -24,19 +24,19 @@ Here is the same plot ranked by variance, alongside a comparison with yardstick 
 
 When shown two phrases and asked which conveys a higher probability, how often do respondents agree? The heatmap below shows the proportion choosing the row term over the column term.
 
-![Pairwise consistency](../R/output/02_inconsistent_pairs.png)
+![Pairwise consistency](output/02_inconsistent_pairs.png)
 
 ### Part 1 vs Part 2 inconsistency
 
 How often do respondents' pairwise choices (Part 1) conflict with their own numerical estimates (Part 2)? The below shows consistency in comparative vs absolute judgements.
 
-![Part 1 vs Part 2](../R/output/02b_part1_vs_part2_inconsistency.png)
+![Part 1 vs Part 2](output/02b_part1_vs_part2_inconsistency.png)
 
 ### Self-disagreement in comparisons
 
 All respondents were shown one pair twice, at the start and end of the Part 1 comparisons. The below shows the percentage of times than participants disagreed with themselves on the pair ordering for different phrases.
 
-![Pairwise disagreement](../R/output/02c_repeated_pair_consistency.png)
+![Pairwise disagreement](output/02c_repeated_pair_consistency.png)
 
 ---
 
@@ -44,7 +44,7 @@ All respondents were shown one pair twice, at the start and end of the Part 1 co
 
 Does the order in which phrases are presented affect the numerical estimates people give? The below shows how much estimates deviated from the mean value depending on position in the list in Part 2.
 
-![Position effect](../R/output/03_position_effect.png)
+![Position effect](output/03_position_effect.png)
 
 ---
 
@@ -52,7 +52,7 @@ Does the order in which phrases are presented affect the numerical estimates peo
 
 Participants were free to choose any number between 0-100% in the absolute judgements. The below shows how they used this scale, with digit-rounding tendencies particularly prominent.
 
-![Rounding patterns](../R/output/07_rounding.png)
+![Rounding patterns](output/07_rounding.png)
 
 ---
 
@@ -60,7 +60,7 @@ Participants were free to choose any number between 0-100% in the absolute judge
 
 Participants were invited to share some broad demographic data. The below distribution of respondents across age bands, education levels, English language backgrounds, and countries of residence.
 
-![Demographics](../R/output/06_demographics.png)
+![Demographics](output/06_demographics.png)
 
 ---
 
@@ -68,7 +68,7 @@ Participants were invited to share some broad demographic data. The below distri
 
 Beta regression models were used to examine how demographic factors related to probability estimates, expressed in terms of fold differences from a reference group. Fixed effects were used for phrase and presentation position, with random effects for respondent.
 
-![Demographic effects including position](../R/output/08_demographic_effects_position.png)
+![Demographic effects including position](output/08_demographic_effects_position.png)
 
 ---
 

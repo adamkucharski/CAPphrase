@@ -103,7 +103,7 @@ df_wide <- df_raw %>%
   )
 
 # Create output directory for plots
-output_dir <- "output"
+output_dir <- "../docs/output"
 if (!dir.exists(output_dir)) {
   dir.create(output_dir, recursive = TRUE)
 }
