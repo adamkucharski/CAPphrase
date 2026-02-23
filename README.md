@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18750055.svg)](https://doi.org/10.5281/zenodo.18750055)
+
 # CAPphrase
 
 Comparative and Absolute Probability phrase dataset, based on an [online quiz](https://probability.kucharski.io/) created as an independent project by Adam Kucharski.
@@ -38,7 +40,7 @@ The `data/` folder contains preprocessed CSVs ready for analysis. This version c
 
 ## Citation and licence
 
-**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset.
+**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
 
 **Licence:** [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
