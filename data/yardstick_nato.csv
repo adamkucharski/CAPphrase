@@ -1,0 +1,6 @@
+term,low,high
+Highly likely,90,100
+Likely,60,90
+Even chance,40,60
+Unlikely,10,40
+Highly unlikely,0,10

@@ -1,0 +1,10 @@
+term,low,high
+Almost certain,99,100
+Extremely likely,95,99
+Very likely,90,95
+Likely,66,90
+About as likely as not,33,66
+Unlikely,10,33
+Very unlikely,5,10
+Extremely unlikely,1,5
+Almost impossible,0,1

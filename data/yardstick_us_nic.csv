@@ -1,0 +1,9 @@
+term,low,high,source
+Almost certain,95,99,US NIC
+Very likely,80,95,US NIC
+Likely,55,80,US NIC
+Roughly even chance,45,55,US NIC
+Unlikely,20,45,US NIC
+Very unlikely,5,20,US NIC
+Almost no chance,1,5,US NIC
+Remote chance,1,5,US NIC

@@ -1,0 +1,9 @@
+term,low,high,source
+Almost certain,95,100,UK
+Highly likely,80,90,UK
+Likely,55,75,UK
+Probable,55,75,UK
+Realistic possibility,40,50,UK
+Unlikely,25,35,UK
+Highly unlikely,10,20,UK
+Remote chance,0,5,UK

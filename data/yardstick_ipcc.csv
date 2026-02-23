@@ -1,0 +1,10 @@
+term,low,high,source
+Virtually certain,99,100,IPCC
+Extremely likely,95,100,IPCC
+Very likely,90,100,IPCC
+Likely,66,100,IPCC
+About as likely as not,33,66,IPCC
+Unlikely,0,33,IPCC
+Very unlikely,0,10,IPCC
+Extremely unlikely,0,5,IPCC
+Exceptionally unlikely,0,1,IPCC
