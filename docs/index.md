@@ -1,10 +1,8 @@
-# CAPphrase: Comparative and Absolute Probability phrase dataset
+### CAPphrase: Comparative and Absolute Probability phrase dataset
 
 This page presentes an analysis of how people interpret common probability phrases, based on data from over 5000 participants in an [online quiz](https://probability.kucharski.io/) created by Adam Kucharski.
 
 The quiz had two parts: 1) respondents compared pairs of probability phrases (e.g. "Which conveys a higher probability: *Likely* or *Probable*?") and 2) they assigned numerical values (0--100%) to each of 19 phrases. Optional demographic questions were also collected.
-
----
 
 ## Probability estimates by phrase
 
@@ -15,8 +13,6 @@ The below shows the distribution of absolute numerical probability estimates for
 Here is the same plot ranked by variance, alongside a comparison with yardstick probability scales (e.g. intelligence community, IPCC).
 
 ![Yardstick comparison](output/01_words_yardsticks.png)
-
----
 
 ## Pairwise comparisons
 
@@ -38,15 +34,11 @@ All respondents were shown one pair twice, at the start and end of the Part 1 co
 
 ![Pairwise disagreement](output/02c_repeated_pair_consistency.png)
 
----
-
 ## Position effects
 
 Does the order in which phrases are presented affect the numerical estimates people give? The below shows how much estimates deviated from the mean value depending on position in the list in Part 2.
 
 ![Position effect](output/03_position_effect.png)
-
----
 
 ## Individual response patterns
 
@@ -54,23 +46,17 @@ Participants were free to choose any number between 0-100% in the absolute judge
 
 ![Rounding patterns](output/07_rounding.png)
 
----
-
 ## Demographics
 
 Participants were invited to share some broad demographic data. The below distribution of respondents across age bands, education levels, English language backgrounds, and countries of residence.
 
 ![Demographics](output/06_demographics.png)
 
----
-
 ## Demographic effects on estimates
 
 Beta regression models were used to examine how demographic factors related to probability estimates, expressed in terms of fold differences from a reference group. Fixed effects were used for phrase and presentation position, with random effects for respondent.
 
 ![Demographic effects including position](output/08_demographic_effects_position.png)
-
----
 
 ## Methods
 
@@ -97,8 +83,6 @@ All data was collected anonymously; the quiz website did not collect any persona
 ### Outlier removal
 
 Before analysis, absolute responses that fall more than 4 standard deviations from their term's mean were removed. This reduces the impact of potential misreadings for otherwise narrowly interpreted phrases (e.g. "Highly Unlikely" interpreted as "Highly Likely"), without affecting phrases that have a lot of variability in interpretation (e.g. "Might happen").
-
----
 
 ## Citation and licence
 
