@@ -1,6 +1,6 @@
 ### CAPphrase: Comparative and Absolute Probability phrase dataset
 
-This page presentes an analysis of how people interpret common probability phrases, based on data from over 5000 participants in an [online quiz](https://probability.kucharski.io/) created by Adam Kucharski.
+This page presentes an analysis of how people interpret common probability phrases, based on data from over 5000 participants in an [online quiz](https://probability.kucharski.io/) created as an independent project by [Adam Kucharski](https://kucharski.io/).
 
 The quiz had two parts: 1) respondents compared pairs of probability phrases (e.g. "Which conveys a higher probability: *Likely* or *Probable*?") and 2) they assigned numerical values (0--100%) to each of 19 phrases. Optional demographic questions were also collected.
 
