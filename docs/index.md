@@ -12,7 +12,7 @@ The below shows the distribution of absolute numerical probability estimates for
 
 ![Means and medians](output/01_words_means.png)
 
-Here is the same plot ranked by variance, alongside a comparison with yardstick probability scales (e.g. intelligence community, IPCC).
+Here is the same plot ranked by variance, alongside a comparison with yardstick probability scales (e.g. intelligence guidance in UK and US, IPCC).
 
 ![Yardstick comparison](output/01_words_yardsticks.png)
 
