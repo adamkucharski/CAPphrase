@@ -42,7 +42,7 @@ The `data/` folder contains preprocessed CSVs ready for analysis. This version c
 
 ## Citation and licence
 
-**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
+**Citation:** Kucharski AJ (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
 
 **Licence:** [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 

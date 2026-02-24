@@ -88,6 +88,6 @@ Before analysis, absolute responses that fall more than 4 standard deviations fr
 
 ## Citation and licence
 
-**Citation:** Kucharski A (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
+**Citation:** Kucharski AJ (2026) CAPphrase: Comparative and Absolute Probability phrase dataset. DOI: 10.5281/zenodo.18750055
 
 **Licence:** CC-BY
