@@ -88,12 +88,12 @@ p_pairs <- ggplot(df_pairs_plot, aes(x = term_row, y = term_col, fill = fill_inc
     high = "#e63946",
     limits = c(0, 0.5),
     na.value = "#e0e0e0",
-    name = "Inconsistency",
-    labels = function(x) percent_format()(x * 2)  # Scale to show as deviation from 50%
+    name = "",
+    labels = percent_format()  # Scale to show as deviation from 50%
   ) +
   labs(
     title = "Pairwise comparison results",
-    subtitle = "Proportion of respondents who judged the row phrase as higher probability than the column phrase",
+    subtitle = "Percentage of respondents who judged the row phrase as higher probability than the column phrase",
     x = NULL,
     y = NULL,
     caption = "Terms ordered by mean probability estimate (low to high). Red = closer to 50-50 (most inconsistent). Grey cells = no data."
