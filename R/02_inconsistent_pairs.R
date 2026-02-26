@@ -96,7 +96,7 @@ p_pairs <- ggplot(df_pairs_plot, aes(x = term_row, y = term_col, fill = fill_inc
     subtitle = "Percentage of respondents who judged the row phrase as higher probability than the column phrase",
     x = NULL,
     y = NULL,
-    caption = "Terms ordered by mean probability estimate (low to high). Red = closer to 50-50 (most inconsistent). Grey cells = no data."
+    caption = "Terms ordered by mean probability estimate (low to high). Red = closer to 50-50 (most inconsistent)."
   ) +
   theme_minimal_clean() +
   theme(
