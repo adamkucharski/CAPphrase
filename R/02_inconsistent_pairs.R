@@ -234,7 +234,7 @@ p_inconsistency <- ggplot(df_inconsistency_plot, aes(x = term_row, y = term_col,
     subtitle = "% who ranked the pair one way in pairwise comparison but the other way in absolute estimates",
     x = NULL,
     y = NULL,
-    caption = "Red = higher inconsistency. Grey cells = no data. Terms ordered by mean probability (low to high)."
+    caption = "Red = higher inconsistency. Terms ordered by mean probability (low to high)."
   ) +
   theme_minimal_clean() +
   theme(

@@ -97,7 +97,7 @@ p_repeat <- ggplot(df_cons_plot, aes(x = term_row, y = term_col, fill = pct_inco
     subtitle = "% of respondents who gave a different answer to pair 1 and its repeat (pair 10)",
     x = NULL,
     y = NULL,
-    caption = "Terms ordered by mean probability estimate (low to high). Grey cells = no data."
+    caption = "Terms ordered by mean probability estimate (low to high)."
   ) +
   theme_minimal_clean() +
   theme(
