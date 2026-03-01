@@ -93,7 +93,7 @@ p_pairs <- ggplot(df_pairs_plot, aes(x = term_row, y = term_col, fill = fill_inc
   ) +
   labs(
     title = "Pairwise comparison results",
-    subtitle = "Percentage of respondents who judged the row phrase as higher probability than the column phrase",
+    subtitle = "Percentage of respondents who judged the column phrase as higher probability than the row phrase",
     x = NULL,
     y = NULL,
     caption = "Terms ordered by mean probability estimate (low to high). Red = closer to 50-50 (most inconsistent)."
